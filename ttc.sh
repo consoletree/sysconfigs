@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 
-# just added a comment
 # Getting the from and to destinations
 getStops() {
 	
